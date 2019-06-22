@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553464200901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2577326885",
+    "id" : "F73FC499",
+    "lastKnownWriteTime" : 1553482294,
+    "last_content_update" : 1553482294892,
+    "path" : "C:/Users/Travers/Dropbox/finalVisual/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "37,36",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

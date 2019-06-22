@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553196829174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "238B0340",
+    "lastKnownWriteTime" : 1553884281,
+    "last_content_update" : 1553884281463,
+    "path" : "~/Dropbox/finalVisual/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "25,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
