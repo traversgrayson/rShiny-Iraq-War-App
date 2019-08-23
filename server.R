@@ -13,17 +13,7 @@ server <-  function(input,output,session) {
   # Save Inputs
   # ==================
   # =========================
-  ### Travers Parsons-Grayson
-  ### Interactive Graph
-  ### MATH 301: Spring 2019
-  # =========================
-  
-  
-  # -------------------------
-  # File for global variables
-  # -------------------------
-  
-  
+   
   # Category
   catValue <- reactive({
    input$cat
